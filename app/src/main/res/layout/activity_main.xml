@@ -58,26 +58,26 @@
         <GridLayout
             app:layout_widthPercent="50%"
             app:layout_heightPercent="50%"
-            android:background="#5339e82a"
+            android:background="#00ffffff"
             android:layout_alignParentRight="true"
             android:layout_alignParentBottom="true"/>
         <GridLayout
             app:layout_widthPercent="50%"
             app:layout_heightPercent="50%"
-            android:background="#53e82a2d"
+            android:background="#00ffffff"
             android:layout_alignParentLeft="true"
             android:layout_alignParentBottom="true"/>
 
         <GridLayout
             app:layout_widthPercent="50%"
             app:layout_heightPercent="50%"
-            android:background="#5339e82a"
+            android:background="#00ffffff"
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"/>
         <GridLayout
             app:layout_widthPercent="50%"
             app:layout_heightPercent="50%"
-            android:background="#53e82a2d"
+            android:background="#00ffffff"
             android:layout_alignParentRight="true"
             android:layout_alignParentTop="true"/>
 
